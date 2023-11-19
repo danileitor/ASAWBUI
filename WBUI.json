@@ -1,64 +1,64 @@
 {
-	"WBUI2": {
-		"settings": {
-			"OpenButton": 0,
-			"HideIcon": false,
-			"HideIconAfter": 60,
-			"IconURL": "https://i.imgur.com/OZ6xOjY.png",
-			"DisableIconText": false,
-			"IconPosition": 0,
-			"IconTextColor": 0,
-			"OpenOnStart": true,
-			"OpenOnStartOnlyNewPlayers": true,
-			"UpdateInterval": 12
-		},
-		"tabs": [
-			{
-				"tab1": {
-					"layout": 1,
-					"buttontext": "Welcome",
-					"title1": "Willkommen zu INFINITI!",
-					"text1": "Willkommen zu INFINITI.\nBitte lies dir als erstes die Regeln durch\nKlicke unten auf DASHBOARD und erhalte dort die restlichen Informationen.\nWas ist im DASHBOARD zu finden?:\n-Server-Regeln\n-Server-Information\n-Mods\n-Status\n-Events-Kalender\n-Anleitungen\n-Marktplatzrechner\nDiscord-Anmeldepflicht - Warum?:\n-Ankündigungen\n-Regeln     -Hilfestellung    -Support     -Reports",
-					"imageurl": "https://i.imgur.com/mGt3cAF.png"
-				}
-			},
-			{
-				"tab2": {
-					"layout": 2,
-					"buttontext": "Settings",
-					"title1": "INI settings:",
-					"text1": "Hallo das hier ist ein TEst",
-					"title2": "JSON settings:",
-					"text2": "Test2",
-					"imageurl": "https://i.imgur.com/mGt3cAF.png"
-				}
-			}
-		],
-		"links": [
-			{
-				"link1": {
-					"text": "Discord",
-					"url": "https://discord.gg/infiniti-ark"
-				}
-			},
-			{
-				"link2": {
-					"text": "Dashboard",
-					"url": "https://dashboard.infiniti-ark.net/"
-				}
-			},
-			{
-				"link3": {
-					"text": "Regeln / Rules",
-					"url": "https://dashboard.infiniti-ark.net/asa_regeln/"
-				}
-			},
-			{
-				"link4": {
-					"text": "Donate",
-					"url": "https://dashboard.infiniti-ark.net/unterstuetzen/"
-				}
-			}
-		]
-	}
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Willkommen zu INFINITI!",
+                    "text1": "Willkommen zu INFINITI.\nBitte lies dir als erstes die Regeln durch\nKlicke unten auf DASHBOARD und erhalte dort die restlichen Informationen.\nWas ist im DASHBOARD zu finden?:\n-Server-Regeln\n-Server-Information\n-Mods\n-Status\n-Events-Kalender\n-Anleitungen\n-Marktplatzrechner\nDiscord-Anmeldepflicht - Warum?:\n-Ankündigungen\n-Regeln     -Hilfestellung    -Support     -Reports",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Settings",
+                    "title1": "INI settings:",
+                    "text1": "Hallo das hier ist ein TEst",
+                    "title2": "JSON settings:",
+                    "text2": "Test2",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/infiniti-ark"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Dashboard",
+                    "url": "https://dashboard.infiniti-ark.net/"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Regeln / Rules",
+                    "url": "https://dashboard.infiniti-ark.net/asa_regeln/"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Donate",
+                    "url": "https://dashboard.infiniti-ark.net/unterstuetzen/"
+                }
+            }
+        ]
+    }
 }
