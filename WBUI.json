@@ -1,64 +1,66 @@
 {
-	"WBUI2": {
-		"settings": {
-			"OpenButton": 0,
-			"HideIcon": false,
-			"HideIconAfter": 60,
-			"IconURL": "https://i.imgur.com/OZ6xOjY.png",
-			"DisableIconText": false,
-			"IconPosition": 0,
-			"IconTextColor": 0,
-			"OpenOnStart": true,
-			"OpenOnStartOnlyNewPlayers": true,
-			"UpdateInterval": 12
-		},
-		"tabs": [
-			{
-				"tab1": {
-					"layout": 1,
-					"buttontext": "Welcome",
-					"title1": "Willkommen zu INFINITI!",
-					"text1": "Willkommen zu INFINITI.\nBitte lies dir als erstes die Regeln durch\nKlicke unten auf DASHBOARD und erhalte dort die restlichen Informationen.\nWas ist im DASHBOARD zu finden?:\n-Server-Regeln\n-Server-Information\n-Mods\n-Status\n-Events-Kalender\n-Anleitungen\n-Marktplatzrechner\nDiscord-Anmeldepflicht - Warum?:\n-Ankündigungen\n-Regeln     -Hilfestellung    -Support     -Reports",
-					"imageurl": "https://i.imgur.com/mGt3cAF.png"
-				}
-			},
-			{
-				"tab2": {
-					"layout": 2,
-					"buttontext": "Settings",
-					"title1": "INI settings:",
-					"text1": "Hallo das hier ist ein TEst",
-					"title2": "JSON settings:",
-					"text2": "Test2",
-					"imageurl": "https://i.imgur.com/mGt3cAF.png"
-				}
-			}
-		],
-		"links": [
-			{
-				"link1": {
-					"text": "Discord",
-					"url": "https://discord.gg/infiniti-ark"
-				}
-			},
-			{
-				"link2": {
-					"text": "Dashboard",
-					"url": "https://dashboard.infiniti-ark.net/"
-				}
-			},
-			{
-				"link3": {
-					"text": "Regeln / Rules",
-					"url": "https://dashboard.infiniti-ark.net/asa_regeln/"
-				}
-			},
-			{
-				"link4": {
-					"text": "Donate",
-					"url": "https://dashboard.infiniti-ark.net/unterstuetzen/"
-				}
-			}
-		]
-	}
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Willkommen zu INFINITI!",
+                    "text1": "Willkommen zu INFINITI.",
+                    "imageurl": "https://dashboard.infiniti-ark.net/wp-content/uploads/2023/11/Background2.jpg"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "Settings",
+                    "title1": "Dino settings:",
+                    "text1": "Maximalanzahl persönlich gezähmter Dinos: 200\nMax Dino Level 210\nGesundheitsregeneration der Dinos (Multiplikator): 2.0\nZähmgeschwindigkeit (Multiplikator): 10\nPaarungsintervall-Multiplikator: 0.1\nPaarungsgeschwindigkeits-Multiplikator: 5.0\nEierschlüpfgeschwindigkeits-Multiplikator: 20.0\nReifegeschwindigkeit für Jungtiere (Multiplikator): 20.0\nKuschelintervall für Jungtiere (Multiplikator): 0.1",
+                    "title2": "Player settings:",
+                    "text2": "Erfahrungspunkte-Multiplikator: 3.0\nWasserbedarf des Spielers (Multiplikator): 0.5\nNahrungsbedarf des Spielers (Multiplikator): 0.5\nAusdauerbedarf des Spielers (Multiplikator): 0.75\nGesundheitsregeneration des Spielers (Multiplikator): 1.5\nGewichtsstatistik pro Level (Multiplikator): 5",
+                    "title3": "Server settings:",
+                    "text3": "Max Strukturen in Range: 8000\nRessourcenerntemengen-Multiplikator: 3\nStackgröße (Multiplikator): 5\nRespawn-Zeitraum für Ressourcen (Multiplikator): 0.75\nBau in Höhlen im PvP erlaubt: Ja",
+                    "imageurl": "https://dashboard.infiniti-ark.net/wp-content/uploads/2023/11/Background2.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/infiniti-ark"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Dashboard",
+                    "url": "https://dashboard.infiniti-ark.net/"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Regeln / Rules",
+                    "url": "https://dashboard.infiniti-ark.net/asa_regeln/"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Donate",
+                    "url": "https://dashboard.infiniti-ark.net/unterstuetzen/"
+                }
+            }
+        ]
+    }
 }
